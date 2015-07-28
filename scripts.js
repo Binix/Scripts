@@ -10,7 +10,7 @@ Config = {
     maintainers: ['Binix'],
 
     // Repo to load plugins from.
-    repourl: "http://meteor-falls.github.io/Scripts/",
+    repourl: "https://github.com/Binix/Scripts",
     // Repo to load data (announcement/description + tiers) from.
     dataurl: "http://meteor-falls.github.io/Server-Shit/",
     emotesurl: 'http://meteor-falls.github.io/Emotes/emotes.json',
